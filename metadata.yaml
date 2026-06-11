@@ -1,5 +1,5 @@
 homepage: "https://github.com/digitalanalytix/openai-ga4-ecommerce-mapper"
 documentation: "https://developers.openai.com/ads/measurement-pixel"
 versions:
-  - sha:
+  - sha: 6614e14f36f347f2e422e111aab2ae313f6e5be9
     changeNotes: "Initial release — GA4 ecommerce to OpenAI Measurement Pixel event mapper with configurable currency multiplier and custom event mappings."
